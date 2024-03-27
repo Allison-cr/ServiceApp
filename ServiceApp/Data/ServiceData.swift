@@ -4,7 +4,6 @@
 //
 //  Created by Alexander Suprun on 27.03.2024.
 //
-
 import Foundation
 
 struct Service: Codable, Identifiable {
